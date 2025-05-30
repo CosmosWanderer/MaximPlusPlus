@@ -58,7 +58,7 @@ int main() {
 
 
 
-    std::string input = getPrimeNumbers;
+    std::string input = recurs;
 
     try {
         antlr4::ANTLRInputStream stream(input);

@@ -1,10 +1,5 @@
 #pragma once
 
-/*
-#ifndef CALCEVALVISITOR_H
-#define CALCEVALVISITOR_H
-*/
-
 #include <string>
 #include <vector>
 #include <unordered_map>
@@ -31,7 +26,6 @@ public:
     std::any returnValue;
 
     // Storage
-    std::unordered_map<std::string, Variable> variables;
     std::unordered_map<std::string, Function> functions;
     std::vector<std::unordered_map<std::string, Variable>> scopes;
     // Need scopes for functions
@@ -80,7 +74,3 @@ public:
     antlrcpp::Any visitMultdivmod_expr(CalcParser::Multdivmod_exprContext* ctx) override;
     antlrcpp::Any visitValue(CalcParser::ValueContext* ctx) override;
 };
-
-/*
-#endif // CALCEVALVISITOR_H
-*/
