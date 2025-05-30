@@ -1,0 +1,10 @@
+^D:\PROGRAMS\C++\UNPROG\ANTLRPARSER\MPP\MAXIMPLUSPLUS\EXTERNAL\ANTLR4-RUNTIME-CPP\BUILD\CMAKEFILES\8388A72FF057FB276F6134D3DB88935E\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

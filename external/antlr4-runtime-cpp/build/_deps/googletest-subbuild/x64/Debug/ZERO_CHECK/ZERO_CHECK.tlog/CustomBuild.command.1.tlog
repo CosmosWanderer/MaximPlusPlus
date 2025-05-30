@@ -1,0 +1,10 @@
+^D:\PROGRAMS\C++\UNPROG\ANTLRPARSER\MPP\MAXIMPLUSPLUS\EXTERNAL\ANTLR4-RUNTIME-CPP\BUILD\_DEPS\GOOGLETEST-SUBBUILD\CMAKEFILES\28E8B63DBA0AAD0E827B8439C855B11B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/_deps/googletest-subbuild -BD:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/_deps/googletest-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/_deps/googletest-subbuild/googletest-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
