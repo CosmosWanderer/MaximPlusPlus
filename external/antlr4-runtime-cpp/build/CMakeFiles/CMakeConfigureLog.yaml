@@ -24,7 +24,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:22:57.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:16.
       
       ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\3.30.3\\CompilerIdC\\CompilerIdC.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.95
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.65
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:22:58.
+      ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:17.
       
       ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\3.30.3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
           ╨Ю╤И╨╕╨▒╨╛╨║: 0
       
-      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.57
+      ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.55
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-b4lnbk"
-      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-b4lnbk"
+      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ed8afs"
+      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ed8afs"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -138,40 +138,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-b4lnbk'
+        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ed8afs'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_bf8e9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3cde5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:22:59.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:18.
         
-        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b4lnbk\\cmTC_bf8e9.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ed8afs\\cmTC_3cde5.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bf8e9.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_3cde5.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b4lnbk\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ed8afs\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_3cde5.dir\\Debug\\cmTC_3cde5.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_3cde5.dir\\Debug\\cmTC_3cde5.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_3cde5.dir\\Debug\\cmTC_3cde5.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf8e9.dir\\Debug\\\\" /Fd"cmTC_bf8e9.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3cde5.dir\\Debug\\\\" /Fd"cmTC_3cde5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.43.34808 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bf8e9.dir\\Debug\\\\" /Fd"cmTC_bf8e9.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3cde5.dir\\Debug\\\\" /Fd"cmTC_3cde5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b4lnbk\\Debug\\cmTC_bf8e9.exe" /INCREMENTAL /ILK:"cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-b4lnbk/Debug/cmTC_bf8e9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-b4lnbk/Debug/cmTC_bf8e9.lib" /MACHINE:X64  /machine:x64 cmTC_bf8e9.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_bf8e9.vcxproj -> D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b4lnbk\\Debug\\cmTC_bf8e9.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ed8afs\\Debug\\cmTC_3cde5.exe" /INCREMENTAL /ILK:"cmTC_3cde5.dir\\Debug\\cmTC_3cde5.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ed8afs/Debug/cmTC_3cde5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ed8afs/Debug/cmTC_3cde5.lib" /MACHINE:X64  /machine:x64 cmTC_3cde5.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_3cde5.vcxproj -> D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ed8afs\\Debug\\cmTC_3cde5.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bf8e9.dir\\Debug\\cmTC_bf8e9.tlog\\cmTC_bf8e9.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b4lnbk\\cmTC_bf8e9.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_3cde5.dir\\Debug\\cmTC_3cde5.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_3cde5.dir\\Debug\\cmTC_3cde5.tlog\\cmTC_3cde5.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ed8afs\\cmTC_3cde5.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.72
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.64
         
       exitCode: 0
   -
@@ -211,8 +211,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-1rp5n0"
-      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-1rp5n0"
+      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-3iw3i8"
+      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-3iw3i8"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Zi /Ob0 /Od /RTC1"
@@ -223,40 +223,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-1rp5n0'
+        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-3iw3i8'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_bd35c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_55bd4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:23:00.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:19.
         
-        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1rp5n0\\cmTC_bd35c.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iw3i8\\cmTC_55bd4.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bd35c.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_55bd4.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1rp5n0\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_bd35c.dir\\Debug\\cmTC_bd35c.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iw3i8\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_55bd4.dir\\Debug\\cmTC_55bd4.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_bd35c.dir\\Debug\\cmTC_bd35c.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bd35c.dir\\Debug\\cmTC_bd35c.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_55bd4.dir\\Debug\\cmTC_55bd4.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_55bd4.dir\\Debug\\cmTC_55bd4.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++17 /Fo"cmTC_bd35c.dir\\Debug\\\\" /Fd"cmTC_bd35c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++17 /Fo"cmTC_55bd4.dir\\Debug\\\\" /Fd"cmTC_55bd4.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.43.34808 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++17 /Fo"cmTC_bd35c.dir\\Debug\\\\" /Fd"cmTC_bd35c.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++17 /Fo"cmTC_55bd4.dir\\Debug\\\\" /Fd"cmTC_55bd4.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1rp5n0\\Debug\\cmTC_bd35c.exe" /INCREMENTAL /ILK:"cmTC_bd35c.dir\\Debug\\cmTC_bd35c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-1rp5n0/Debug/cmTC_bd35c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-1rp5n0/Debug/cmTC_bd35c.lib" /MACHINE:X64  /machine:x64 cmTC_bd35c.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_bd35c.vcxproj -> D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1rp5n0\\Debug\\cmTC_bd35c.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iw3i8\\Debug\\cmTC_55bd4.exe" /INCREMENTAL /ILK:"cmTC_55bd4.dir\\Debug\\cmTC_55bd4.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-3iw3i8/Debug/cmTC_55bd4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-3iw3i8/Debug/cmTC_55bd4.lib" /MACHINE:X64  /machine:x64 cmTC_55bd4.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_55bd4.vcxproj -> D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iw3i8\\Debug\\cmTC_55bd4.exe
         FinalizeBuildStatus:
-          ╨д╨░╨╣╨╗ "cmTC_bd35c.dir\\Debug\\cmTC_bd35c.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_bd35c.dir\\Debug\\cmTC_bd35c.tlog\\cmTC_bd35c.lastbuildstate".
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1rp5n0\\cmTC_bd35c.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+          ╨д╨░╨╣╨╗ "cmTC_55bd4.dir\\Debug\\cmTC_55bd4.tlog\\unsuccessfulbuild" ╤Г╨┤╨░╨╗╤П╨╡╤В╤Б╤П.
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_55bd4.dir\\Debug\\cmTC_55bd4.tlog\\cmTC_55bd4.lastbuildstate".
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-3iw3i8\\cmTC_55bd4.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         
         ╨б╨▒╨╛╤А╨║╨░ ╤Г╤Б╨┐╨╡╤И╨╜╨╛ ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░.
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 0
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.63
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.60
         
       exitCode: 0
   -
@@ -299,8 +299,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-7n34a0"
-      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-7n34a0"
+      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ghbh55"
+      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ghbh55"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>"
@@ -308,40 +308,40 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-7n34a0'
+        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-ghbh55'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9c629.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3763b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:23:05.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:24.
         
-        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\cmTC_9c629.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\cmTC_3763b.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_9c629.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_3763b.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_9c629.dir\\Debug\\cmTC_9c629.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_3763b.dir\\Debug\\cmTC_3763b.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_9c629.dir\\Debug\\cmTC_9c629.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_9c629.dir\\Debug\\cmTC_9c629.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_3763b.dir\\Debug\\cmTC_3763b.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_3763b.dir\\Debug\\cmTC_3763b.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c629.dir\\Debug\\\\" /Fd"cmTC_9c629.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3763b.dir\\Debug\\\\" /Fd"cmTC_3763b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\src.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.43.34808 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9c629.dir\\Debug\\\\" /Fd"cmTC_9c629.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\src.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3763b.dir\\Debug\\\\" /Fd"cmTC_3763b.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\src.c"
           src.c
-        D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\src.c(1,10): error C1083: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ ╨▓╨║╨╗╤О╤З╨╡╨╜╨╕╨╡: pthread.h: No such file or directory, [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\cmTC_9c629.vcxproj]
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\cmTC_9c629.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
+        D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\src.c(1,10): error C1083: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ ╨▓╨║╨╗╤О╤З╨╡╨╜╨╕╨╡: pthread.h: No such file or directory, [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\cmTC_3763b.vcxproj]
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\cmTC_3763b.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
         
         ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
         
-        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\cmTC_9c629.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
+        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\cmTC_3763b.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
         (╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ClCompile) -> 
-          D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\src.c(1,10): error C1083: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ ╨▓╨║╨╗╤О╤З╨╡╨╜╨╕╨╡: pthread.h: No such file or directory, [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-7n34a0\\cmTC_9c629.vcxproj]
+          D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\src.c(1,10): error C1083: ╨Э╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ ╨▓╨║╨╗╤О╤З╨╡╨╜╨╕╨╡: pthread.h: No such file or directory, [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ghbh55\\cmTC_3763b.vcxproj]
         
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 1
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.39
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.38
         
       exitCode: 1
   -
@@ -355,8 +355,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-efs949"
-      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-efs949"
+      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-28h248"
+      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-28h248"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>"
@@ -364,42 +364,42 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-efs949'
+        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-28h248'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_68fd5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_be7e5.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:23:06.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:25.
         
-        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\cmTC_68fd5.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\cmTC_be7e5.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_68fd5.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_be7e5.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_68fd5.dir\\Debug\\cmTC_68fd5.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_be7e5.dir\\Debug\\cmTC_be7e5.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_68fd5.dir\\Debug\\cmTC_68fd5.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_68fd5.dir\\Debug\\cmTC_68fd5.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_be7e5.dir\\Debug\\cmTC_be7e5.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_be7e5.dir\\Debug\\cmTC_be7e5.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_68fd5.dir\\Debug\\\\" /Fd"cmTC_68fd5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be7e5.dir\\Debug\\\\" /Fd"cmTC_be7e5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\CheckFunctionExists.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.43.34808 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_68fd5.dir\\Debug\\\\" /Fd"cmTC_68fd5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\CheckFunctionExists.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_be7e5.dir\\Debug\\\\" /Fd"cmTC_be7e5.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\Debug\\cmTC_68fd5.exe" /INCREMENTAL /ILK:"cmTC_68fd5.dir\\Debug\\cmTC_68fd5.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-efs949/Debug/cmTC_68fd5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-efs949/Debug/cmTC_68fd5.lib" /MACHINE:X64  /machine:x64 cmTC_68fd5.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthreads.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\cmTC_68fd5.vcxproj]
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\cmTC_68fd5.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\Debug\\cmTC_be7e5.exe" /INCREMENTAL /ILK:"cmTC_be7e5.dir\\Debug\\cmTC_be7e5.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-28h248/Debug/cmTC_be7e5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-28h248/Debug/cmTC_be7e5.lib" /MACHINE:X64  /machine:x64 cmTC_be7e5.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthreads.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\cmTC_be7e5.vcxproj]
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\cmTC_be7e5.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
         
         ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
         
-        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\cmTC_68fd5.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
+        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\cmTC_be7e5.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
         (╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В Link) -> 
-          LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthreads.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-efs949\\cmTC_68fd5.vcxproj]
+          LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthreads.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-28h248\\cmTC_be7e5.vcxproj]
         
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 1
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.42
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.44
         
       exitCode: 1
   -
@@ -413,8 +413,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-yw9uv6"
-      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-yw9uv6"
+      source: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-cxg4h7"
+      binary: "D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-cxg4h7"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_MSVC_RUNTIME_LIBRARY: "MultiThreaded$<$<CONFIG:Debug>:Debug>"
@@ -422,42 +422,42 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-yw9uv6'
+        Change Dir: 'D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-cxg4h7'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d06cd.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dad2d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         ╨Т╨╡╤А╤Б╨╕╤П MSBuild 17.13.9+e0f243f1e ╨┤╨╗╤П .NET Framework
-        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 30.05.2025 20:23:07.
+        ╨б╨▒╨╛╤А╨║╨░ ╨╜╨░╤З╨░╤В╨░ 31.05.2025 23:00:25.
         
-        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\cmTC_d06cd.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
+        ╨Я╤А╨╛╨╡╨║╤В "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\cmTC_dad2d.vcxproj" ╨▓ ╤Г╨╖╨╗╨╡ 1 (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О).
         PrepareForBuild:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_d06cd.dir\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_dad2d.dir\\Debug\\".
           ╨б╤В╤А╤Г╨║╤В╤Г╤А╨╕╤А╨╛╨▓╨░╨╜╨╜╤Л╨╣ ╨▓╤Л╨▓╨╛╨┤ ╨▓╨║╨╗╤О╤З╨╡╨╜. ╨д╨╛╤А╨╝╨░╤В╨╕╤А╨╛╨▓╨░╨╜╨╕╨╡ ╨┤╨╕╨░╨│╨╜╨╛╤Б╤В╨╕╨║╨╕ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А╨░ ╨▒╤Г╨┤╨╡╤В ╨╛╤В╤А╨░╨╢╨░╤В╤М ╨╕╨╡╤А╨░╤А╤Е╨╕╤О ╨╛╤И╨╕╨▒╨╛╨║. ╨Я╨╛╨┤╤А╨╛╨▒╨╜╨╡╨╡ ╤Б╨╝. https://aka.ms/cpp/structured-output.
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\Debug\\".
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_d06cd.dir\\Debug\\cmTC_d06cd.tlog\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\Debug\\".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ ╨║╨░╤В╨░╨╗╨╛╨│╨░ "cmTC_dad2d.dir\\Debug\\cmTC_dad2d.tlog\\".
         InitializeBuildStatus:
-          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_d06cd.dir\\Debug\\cmTC_d06cd.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
-          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_d06cd.dir\\Debug\\cmTC_d06cd.tlog\\unsuccessfulbuild".
+          ╨б╨╛╨╖╨┤╨░╨╜╨╕╨╡ "cmTC_dad2d.dir\\Debug\\cmTC_dad2d.tlog\\unsuccessfulbuild", ╤В╨░╨║ ╨║╨░╨║ ╨▒╤Л╨╗╨╛ ╨╖╨░╨┤╨░╨╜╨╛ "AlwaysCreate".
+          ╨Ю╨▒╤А╨░╤Й╨╡╨╜╨╕╨╡ ╨║ "cmTC_dad2d.dir\\Debug\\cmTC_dad2d.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d06cd.dir\\Debug\\\\" /Fd"cmTC_d06cd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dad2d.dir\\Debug\\\\" /Fd"cmTC_dad2d.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\CheckFunctionExists.c"
           ╨Ю╨┐╤В╨╕╨╝╨╕╨╖╨╕╤А╤Г╤О╤Й╨╕╨╣ ╨║╨╛╨╝╨┐╨╕╨╗╤П╤В╨╛╤А Microsoft (R) C/C++ ╨▓╨╡╤А╤Б╨╕╨╕ 19.43.34808 ╨┤╨╗╤П x64
           (C) ╨Ъ╨╛╤А╨┐╨╛╤А╨░╤Ж╨╕╤П ╨Ь╨░╨╣╨║╤А╨╛╤Б╨╛╤Д╤В (Microsoft Corporation).  ╨Т╤Б╨╡ ╨┐╤А╨░╨▓╨░ ╨╖╨░╤Й╨╕╤Й╨╡╨╜╤Л.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d06cd.dir\\Debug\\\\" /Fd"cmTC_d06cd.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\CheckFunctionExists.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dad2d.dir\\Debug\\\\" /Fd"cmTC_dad2d.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\Debug\\cmTC_d06cd.exe" /INCREMENTAL /ILK:"cmTC_d06cd.dir\\Debug\\cmTC_d06cd.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-yw9uv6/Debug/cmTC_d06cd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-yw9uv6/Debug/cmTC_d06cd.lib" /MACHINE:X64  /machine:x64 cmTC_d06cd.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthread.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\cmTC_d06cd.vcxproj]
-        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\cmTC_d06cd.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\Debug\\cmTC_dad2d.exe" /INCREMENTAL /ILK:"cmTC_dad2d.dir\\Debug\\cmTC_dad2d.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-cxg4h7/Debug/cmTC_dad2d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/external/antlr4-runtime-cpp/build/CMakeFiles/CMakeScratch/TryCompile-cxg4h7/Debug/cmTC_dad2d.lib" /MACHINE:X64  /machine:x64 cmTC_dad2d.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthread.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\cmTC_dad2d.vcxproj]
+        ╨б╨▒╨╛╤А╨║╨░ ╨┐╤А╨╛╨╡╨║╤В╨░ "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\cmTC_dad2d.vcxproj" ╨╖╨░╨▓╨╡╤А╤И╨╡╨╜╨░ (╤Ж╨╡╨╗╨╡╨▓╤Л╨╡ ╨╛╨▒╤К╨╡╨║╤В╤Л ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) ╤Б ╨╛╤И╨╕╨▒╨║╨╛╨╣.
         
         ╨Ю╤И╨╕╨▒╨║╨░ ╤Б╨▒╨╛╤А╨║╨╕.
         
-        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\cmTC_d06cd.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
+        "D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\cmTC_dad2d.vcxproj" (╤Ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В ╨┐╨╛ ╤Г╨╝╨╛╨╗╤З╨░╨╜╨╕╤О) (1) ->
         (╨ж╨╡╨╗╨╡╨▓╨╛╨╣ ╨╛╨▒╤К╨╡╨║╤В Link) -> 
-          LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthread.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-yw9uv6\\cmTC_d06cd.vcxproj]
+          LINK : fatal error LNK1104: ╨╜╨╡ ╤Г╨┤╨░╨╡╤В╤Б╤П ╨╛╤В╨║╤А╤Л╤В╤М ╤Д╨░╨╣╨╗ "pthread.lib" [D:\\programs\\c++\\UnProg\\ANTLRParser\\MPP\\MaximPlusPlus\\external\\antlr4-runtime-cpp\\build\\CMakeFiles\\CMakeScratch\\TryCompile-cxg4h7\\cmTC_dad2d.vcxproj]
         
             ╨Я╤А╨╡╨┤╤Г╨┐╤А╨╡╨╢╨┤╨╡╨╜╨╕╨╣: 0
             ╨Ю╤И╨╕╨▒╨╛╨║: 1
         
-        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.46
+        ╨Я╤А╨╛╤И╨╗╨╛ ╨▓╤А╨╡╨╝╨╡╨╜╨╕ 00:00:00.43
         
       exitCode: 1
 ...

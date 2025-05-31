@@ -18,7 +18,7 @@ public:
     T__20 = 21, T__21 = 22, T__22 = 23, T__23 = 24, T__24 = 25, T__25 = 26, 
     IF = 27, ELSE = 28, WHILE = 29, PRINT = 30, RETURN = 31, DEF = 32, LBRACK = 33, 
     RBRACK = 34, TRUE = 35, FALSE = 36, TYPE = 37, NAME = 38, INTEGER = 39, 
-    FLOAT = 40, WS = 41, SEP = 42
+    FLOAT = 40, WS = 41, SEP = 42, ONELINECOMMENT = 43, MULLINECOMMENT = 44
   };
 
   enum {

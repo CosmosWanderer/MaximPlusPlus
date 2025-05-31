@@ -7,6 +7,7 @@
 
 int main() {
     std::string getPrimeNumbers = R"(
+        // Find all prime numbers <= N
         def getPrimes(integer N) {
             i = 2;
             while (i < N) {
@@ -14,6 +15,8 @@ int main() {
                 j = 2;
                 while (j * j <= i) {
                     if ((i % j) == 0) {
+                        /* Checking, if there are any devisers
+                        If there are -> flag = 0 -> not a prime number */
                         flag = 0;
                     }
                     j++;
@@ -29,6 +32,7 @@ int main() {
     )";
 
     std::string getFactorial = R"(
+        // Get factorial of N (not reccurent)
         def factor(integer N) {
 	        result = 1;
 	        i = 0;
@@ -39,7 +43,16 @@ int main() {
 	        return result;
         }
 
+        // Reccurent version            
+        def factorR(integer N) {
+            if (N == 1) {
+                return N;
+            }
+            return N * factorR(N - 1);
+        }
+        
         print[factor(5)];
+        print[factorR(5)];
     )";
 
     std::string recurs = R"(
@@ -58,7 +71,7 @@ int main() {
 
 
 
-    std::string input = recurs;
+    std::string input = getFactorial;
 
     try {
         antlr4::ANTLRInputStream stream(input);

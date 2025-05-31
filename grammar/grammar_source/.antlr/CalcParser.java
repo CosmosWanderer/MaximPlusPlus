@@ -1,4 +1,4 @@
-// Generated from d:/programs/c++/UnProg/ANTLRParser/mp2-lab6-Translator-master/mp2-lab6-Translator-master/grammar/grammar_source/Calc.g4 by ANTLR 4.13.1
+// Generated from d:/programs/c++/UnProg/ANTLRParser/MPP/MaximPlusPlus/grammar/grammar_source/Calc.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;
@@ -21,7 +21,7 @@ public class CalcParser extends Parser {
 		T__17=18, T__18=19, T__19=20, T__20=21, T__21=22, T__22=23, T__23=24, 
 		T__24=25, T__25=26, IF=27, ELSE=28, WHILE=29, PRINT=30, RETURN=31, DEF=32, 
 		LBRACK=33, RBRACK=34, TRUE=35, FALSE=36, TYPE=37, NAME=38, INTEGER=39, 
-		FLOAT=40, WS=41, SEP=42;
+		FLOAT=40, WS=41, SEP=42, ONELINECOMMENT=43, MULLINECOMMENT=44;
 	public static final int
 		RULE_prog = 0, RULE_statement = 1, RULE_var_assignment = 2, RULE_typed_var_assignment = 3, 
 		RULE_var_comp_assignment = 4, RULE_operator_if = 5, RULE_operator_while = 6, 
@@ -57,7 +57,7 @@ public class CalcParser extends Parser {
 			null, null, null, null, null, null, null, null, null, null, null, null, 
 			null, null, null, "IF", "ELSE", "WHILE", "PRINT", "RETURN", "DEF", "LBRACK", 
 			"RBRACK", "TRUE", "FALSE", "TYPE", "NAME", "INTEGER", "FLOAT", "WS", 
-			"SEP"
+			"SEP", "ONELINECOMMENT", "MULLINECOMMENT"
 		};
 	}
 	private static final String[] _SYMBOLIC_NAMES = makeSymbolicNames();
@@ -1618,7 +1618,7 @@ public class CalcParser extends Parser {
 	}
 
 	public static final String _serializedATN =
-		"\u0004\u0001*\u00e8\u0002\u0000\u0007\u0000\u0002\u0001\u0007\u0001\u0002"+
+		"\u0004\u0001,\u00e8\u0002\u0000\u0007\u0000\u0002\u0001\u0007\u0001\u0002"+
 		"\u0002\u0007\u0002\u0002\u0003\u0007\u0003\u0002\u0004\u0007\u0004\u0002"+
 		"\u0005\u0007\u0005\u0002\u0006\u0007\u0006\u0002\u0007\u0007\u0007\u0002"+
 		"\b\u0007\b\u0002\t\u0007\t\u0002\n\u0007\n\u0002\u000b\u0007\u000b\u0002"+

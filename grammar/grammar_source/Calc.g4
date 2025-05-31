@@ -23,6 +23,9 @@ WS     : [ \t\r\n]+ -> skip ;
 SEP    : ';' ;
 
 
+// New addition - comments!
+ONELINECOMMENT : '//' ~[\r\n]* -> skip ;       
+MULLINECOMMENT : '/*' .*? '*/' -> skip ;       
 
 // Whole programm
 prog : statement* EOF                                                     # Program
